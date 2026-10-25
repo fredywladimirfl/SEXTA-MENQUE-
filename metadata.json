@@ -1,0 +1,6 @@
+{
+  "name": "Sexta Compañía Menque · Cuerpo de Bomberos de Tomé",
+  "description": "Sitio oficial y sistema de gestión del Cuartel Sexta Compañía Menque (CBT). Reseña histórica, registro de dotación de bomberos, bitácora de emergencias recientes, material mayor B6, inventario y formulario de contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
